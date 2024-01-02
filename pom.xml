@@ -46,20 +46,6 @@
             <artifactId>jjwt</artifactId>
             <version>0.9.1</version>
         </dependency>
-        <!-- Dependency with a unique license -->
-        <dependency>
-            <groupId>org.json</groupId>
-            <artifactId>json</artifactId>
-            <version>20201115</version>
-            <licenses>
-                <license>
-                    <name>JSON License</name>
-                    <url>https://www.json.org/license.html</url>
-                </license>
-            </licenses>
-        </dependency>
-        <!-- End of added dependencies -->
-
     </dependencies>
 
     <properties>
